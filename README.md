@@ -1,4 +1,4 @@
-# Bras-robotis-s-Sti2d
+# Bras-robotisés-Sti2d
 Projet de bras robotisé réalisé en cours (Arduino)
 Ce projet consiste à concevoir et programmer un bras robotisé capable d’effectuer différents mouvements à l’aide de servomoteurs.
 
